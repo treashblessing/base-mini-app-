@@ -1,7 +1,7 @@
 # base-mini-app-
 i am building a base mini app that can allow me transact even when i am offline 
 from eth_account import Account
-from web3 import Web3
+from web3 import Web3f
 
 # 1. Setup your detailsd
 private_key = "YOUR_PRIVATE_KEY"  # Never share thisbbsfydd
