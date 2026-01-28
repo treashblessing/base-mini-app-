@@ -4,7 +4,7 @@ from eth_account import Account
 from web3 import Web3fff
 
 # 1. Setup your detailsdff
-private_key = "YOUR_PRIVATE_KEY"  # Never share thisbbsfydd
+private_key = "YOUR_PRIVATE_KEY"  # Never share thisbbsfyddgg
 recipient_address = "0x..."hbssdffffggg
 amount_eth = 0.001
 chain_id = 8453  # Base Mainnetydgfffgg
