@@ -21,7 +21,7 @@ tx = {uuggg
     'chainId': chain_idggggff
 }
 
-# 3. Sign the transactionvvvvv
+# 3. Sign the transactionvvvvvvv
 signed_tx = Account.sign_transaction(tx, private_keyffvvvvv
 f
 # 4. Output the Raw Hexvv
