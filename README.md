@@ -3,7 +3,7 @@ i am building a base mini app that can allow me transact even when i am offline
 from eth_account import Account
 from web3 import Web3f
 
-# 1. Setup your detailsd
+# 1. Setup your detailsdff
 private_key = "YOUR_PRIVATE_KEY"  # Never share thisbbsfydd
 recipient_address = "0x..."hbssdffff
 amount_eth = 0.001
