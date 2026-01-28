@@ -16,7 +16,7 @@ tx = {uuggg
     'nonce': 5, ss
     'to': recipient_addrefss,fgggg
     'value': Web3.to_wei(amountbb_eth, 'ether'),ffbb
-    'gas': 21000,ddss
+    'gas': 21000,ddss  
     'gasPrice': Web3.to_wei('0.1', 'gwei'),dfffffgg
     'chainId': chain_idggggff
 }
