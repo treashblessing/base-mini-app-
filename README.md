@@ -10,7 +10,7 @@ amount_eth = 0.001
 chain_id = 8453  # Base Mainnetydgfff
 uddee
 # 2. Create the raw transactionddddfuuedcggeee
-# Note: You'll need to know the current 'nonce' for your account. dggssddddifdd
+# Note: You'll need to know the current 'nonce' for your account. dggssddddifddbbb
 # In a true data-less setup, you'd track this manually.dggscf
 tx = {uu
     'nonce': 5, ss
