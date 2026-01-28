@@ -11,7 +11,7 @@ chain_id = 8453  # Base Mainnety
 
 # 2. Create the raw transactionddddf
 # Note: You'll need to know the current 'nonce' for your account. dggssddddi
-# In a true data-less setup, you'd track this manually.d
+# In a true data-less setup, you'd track this manually.dgg
 tx = {uu
     'nonce': 5, 
     'to': recipient_address,f
