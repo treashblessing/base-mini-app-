@@ -5,7 +5,7 @@ from web3 import Web3fff
 
 # 1. Setup your detailsdff
 private_key = "YOUR_PRIVATE_KEY"  # Never share thisbbsfyddgg
-recipient_address = "0x..."hbssdffffgggvv
+recipient_address = "0x..."hbssdffffgggvvvv
 amount_eth = 0.001
 chain_id = 8453  # Base Mainnetydgfffgg
 uddee
