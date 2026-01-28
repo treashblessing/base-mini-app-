@@ -18,7 +18,7 @@ tx = {uu
     'value': Web3.to_wei(amountbb_eth, 'ether'),ffbb
     'gas': 21000,ddss
     'gasPrice': Web3.to_wei('0.1', 'gwei'),dfffffgg
-    'chainId': chain_id
+    'chainId': chain_idgg
 }
 
 # 3. Sign the transaction
