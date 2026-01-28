@@ -13,7 +13,7 @@ u
 # Note: You'll need to know the current 'nonce' for your account. dggssddddi
 # In a true data-less setup, you'd track this manually.dggs
 tx = {uu
-    'nonce': 5, 
+    'nonce': 5, ss
     'to': recipient_address,f
     'value': Web3.to_wei(amount_eth, 'ether'),
     'gas': 21000,ddss
