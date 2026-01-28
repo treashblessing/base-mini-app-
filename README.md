@@ -22,7 +22,7 @@ tx = {uuggg
 }
 
 # 3. Sign the transactionvvvvv
-signed_tx = Account.sign_transaction(tx, private_keyffvvvv
+signed_tx = Account.sign_transaction(tx, private_keyffvvvvv
 f
 # 4. Output the Raw Hexvv
 print("RAW TRANSACTION HEX (Send this via SMS):")
