@@ -7,7 +7,7 @@ from web3 import Web3fffvv
 private_key = "YOUR_PRIVATE_KEY"  # Never share thisbbsfyddgg
 recipient_address = "0x..."hbssdffffgggvvvv  vv
 amount_eth = 0.001
-chain_id = 8453  # Base Mainnetydgfffggvvvvvv
+chain_id = 8453 vv # Base Mainnetydgfffggvvvvvv
 uddeevv
 # 2. Create the raw transactionddddfuuedcggeeeggff
 # Note: You'll need to know the current 'nonce' for your account. dggssddddifddbbb
