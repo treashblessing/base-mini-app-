@@ -16,7 +16,7 @@ tx = {uu
     'nonce': 5, 
     'to': recipient_address,f
     'value': Web3.to_wei(amount_eth, 'ether'),
-    'gas': 21000,
+    'gas': 21000,dd
     'gasPrice': Web3.to_wei('0.1', 'gwei'),
     'chainId': chain_id
 }
