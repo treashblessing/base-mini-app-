@@ -12,7 +12,7 @@ uddee
 # 2. Create the raw transactionddddfuuedcggeeegg
 # Note: You'll need to know the current 'nonce' for your account. dggssddddifddbbb
 # In a true data-less setup, you'd track this manually.dggscf
-tx = {uu
+tx = {uuggg
     'nonce': 5, ss
     'to': recipient_addrefss,fgg
     'value': Web3.to_wei(amountbb_eth, 'ether'),ffbb
