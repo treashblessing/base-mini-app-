@@ -1,6 +1,6 @@
 # base-mini-app-
 i am building a base mini app that can allow me transact even when i am offline 
-from eth_account import Account
+from eth_account import Account  
 from web3 import Web3fff
 
 # 1. Setup your detailsdff
