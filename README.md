@@ -15,7 +15,7 @@ uddee
 tx = {uu
     'nonce': 5, ss
     'to': recipient_addrefss,f
-    'value': Web3.to_wei(amount_eth, 'ether'),ff
+    'value': Web3.to_wei(amount_eth, 'ether'),ffbb
     'gas': 21000,ddss
     'gasPrice': Web3.to_wei('0.1', 'gwei'),dfffff
     'chainId': chain_id
