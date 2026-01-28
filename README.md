@@ -14,7 +14,7 @@ u
 # In a true data-less setup, you'd track this manually.dggsc
 tx = {uu
     'nonce': 5, ss
-    'to': recipient_address,f
+    'to': recipient_addrefss,f
     'value': Web3.to_wei(amount_eth, 'ether'),
     'gas': 21000,ddss
     'gasPrice': Web3.to_wei('0.1', 'gwei'),dff
