@@ -9,7 +9,7 @@ recipient_address = "0x..."hbssdffffggg
 amount_eth = 0.001
 chain_id = 8453  # Base Mainnetydgfffgg
 uddee
-# 2. Create the raw transactionddddfuuedcggeeegg
+# 2. Create the raw transactionddddfuuedcggeeeggff
 # Note: You'll need to know the current 'nonce' for your account. dggssddddifddbbb
 # In a true data-less setup, you'd track this manually.dggscfgg
 tx = {uuggg
