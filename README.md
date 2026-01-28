@@ -5,7 +5,7 @@ from web3 import Web3
 
 # 1. Setup your detailsd
 private_key = "YOUR_PRIVATE_KEY"  # Never share thisbbsfydd
-recipient_address = "0x..."hbssd
+recipient_address = "0x..."hbssdf
 amount_eth = 0.001
 chain_id = 8453  # Base Mainnetyd
 u
