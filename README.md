@@ -8,7 +8,7 @@ private_key = "YOUR_PRIVATE_KEY"  # Never share thisbbsfyddgg
 recipient_address = "0x..."hbssdffffgggvvvv
 amount_eth = 0.001
 chain_id = 8453  # Base Mainnetydgfffggvvvvvv
-uddee
+uddeevv
 # 2. Create the raw transactionddddfuuedcggeeeggff
 # Note: You'll need to know the current 'nonce' for your account. dggssddddifddbbb
 # In a true data-less setup, you'd track this manually.dggscfgg
