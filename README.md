@@ -7,7 +7,7 @@ from web3 import Web3
 private_key = "YOUR_PRIVATE_KEY"  # Never share thisbbsf
 recipient_address = "0x..."hbssd
 amount_eth = 0.001
-chain_id = 8453  # Base Mainnet
+chain_id = 8453  # Base Mainnety
 
 # 2. Create the raw transactionddddf
 # Note: You'll need to know the current 'nonce' for your account. dggssddddi
