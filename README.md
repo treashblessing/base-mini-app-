@@ -12,7 +12,7 @@ chain_id = 8453  # Base Mainnet
 # 2. Create the raw transactionddddf
 # Note: You'll need to know the current 'nonce' for your account. dggssdddd
 # In a true data-less setup, you'd track this manually.d
-tx = {
+tx = {uu
     'nonce': 5, 
     'to': recipient_address,f
     'value': Web3.to_wei(amount_eth, 'ether'),
