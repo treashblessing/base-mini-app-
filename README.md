@@ -4,7 +4,7 @@ from eth_account import Account
 from web3 import Web3
 
 # 1. Setup your details
-private_key = "YOUR_PRIVATE_KEY"  # Never share this
+private_key = "YOUR_PRIVATE_KEY"  # Never share thisbb
 recipient_address = "0x..."h
 amount_eth = 0.001
 chain_id = 8453  # Base Mainnet
