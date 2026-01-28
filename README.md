@@ -11,7 +11,7 @@ chain_id = 8453  # Base Mainnet
 
 # 2. Create the raw transaction
 # Note: You'll need to know the current 'nonce' for your account. 
-# In a true data-less setup, you'd track this manually.
+# In a true data-less setup, you'd track this manually.d
 tx = {
     'nonce': 5, 
     'to': recipient_address,
